@@ -53,7 +53,6 @@ htmlcov/
 !frontend/public/network_graph.json
 !package.json
 !package-lock.json
-!vercel.json
 !frontend/vercel.json
 
 # Large data files - use Git LFS or download separately
@@ -73,3 +72,4 @@ htmlcov/
 test_*.jsonl
 demo_*.jsonl
 streaming_results.jsonl
+.vercel
